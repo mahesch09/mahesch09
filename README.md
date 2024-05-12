@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahesch09
 - 👀 I’m interested in Learning new technologies and concepts
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently Android new concepts to keep myself updated.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
